@@ -1,0 +1,5 @@
+openai
+duckduckgo-search
+colorama
+requests
+beautifulsoup4
