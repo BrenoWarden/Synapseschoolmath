@@ -1,0 +1,8 @@
+-r SITE_AI/requirements.txt
+Flask==3.0.0
+openai
+duckduckgo-search
+colorama
+requests
+beautifulsoup4
+gunicorn
